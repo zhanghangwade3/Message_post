@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<resources> 
+  <string name="app_name">Send Message</string> 
+  <string name="str_button1">按我发送短信</string> 
+  <string name="str_textview">收件人</string>
+</resources>
